@@ -2,8 +2,8 @@
 <h3 align="center">🚀 Full Stack Developer | React | Node.js | PostgreSQL</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">LinkedIn</a> •
-  <a href="https://your-portfolio-link.com" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ravitheja-golla-880661310" target="_blank">LinkedIn</a> •
+  <a href="https://ravithejaportfolio.netlify.app" target="_blank">Portfolio</a> •
   <a href="mailto:gollaravitheja007@gmail.com">Email</a>
 </p>
 
@@ -48,7 +48,7 @@
 - Convert natural language into SQL queries  
 - Built using **Node.js + AI API + PostgreSQL**  
 - Helps non-technical users query databases easily  
-🔗 Demo: https://your-demo-link.com  
+🔗 Demo: https://querymind-nltosql.netlify.app/
 🔗 Repo: https://github.com/ravithejagolla/QueryMind  
 
 ---
@@ -56,8 +56,8 @@
 ### 🛒 Shop Smart (E-Commerce App)
 - Full-stack e-commerce platform  
 - Features: Product listing, cart, authentication, payments  
-- Built using **React + Node.js + PostgreSQL**  
-🔗 Demo: https://your-demo-link.com  
+- Built using **React + Node.js + MongoDB**  
+🔗 Demo: https://shop-smart-commerce.netlify.app/
 🔗 Repo: https://github.com/ravithejagolla/Shop-Smart-E-Commerce  
 
 ---
@@ -72,7 +72,7 @@
 
 ### 🌐 Portfolio Website
 - Personal portfolio showcasing projects and skills  
-🔗 Demo: https://your-portfolio-link.com  
+🔗 Demo: https://ravithejaportfolio.netlify.app/
 🔗 Repo: https://github.com/ravithejagolla/RavithejaXPortfolio  
 
 ---
@@ -92,8 +92,8 @@
 ## 📫 Connect With Me
 
 - 📧 Email: gollaravitheja007@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN  
-- 🌐 Portfolio: https://your-portfolio-link.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ravitheja-golla-880661310
+- 🌐 Portfolio: https://ravithejaportfolio.netlify.app/  
 
 ---
 
