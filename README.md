@@ -36,7 +36,7 @@
 
 ### 🔧 Tools & Others
 - Git & GitHub
-- Docker (Basics)
+- Docker
 - Postman
 - VS Code
 
@@ -66,14 +66,18 @@
 - Health management platform for users  
 - Track health data and get useful insights  
 - Built using **JavaScript + Web Technologies**  
-🔗 Repo: https://github.com/ravithejagolla/Health-Buddy  
+🔗 Repo: https://github.com/ravithejagolla/Health-Buddy 
+🔗 Demo: https://elegant-hamster-c90294.netlify.app/
 
 ---
 
-### 🌐 Portfolio Website
-- Personal portfolio showcasing projects and skills  
-🔗 Demo: https://ravithejaportfolio.netlify.app/
-🔗 Repo: https://github.com/ravithejagolla/RavithejaXPortfolio  
+### 🍽️ Eat-Echo
+- Voice-enabled assistant for discovering top food items from nearby restaurants  
+- Get location-based results with high-quality dish imagery and voice feedback  
+- Built using **React + Node.js + Google APIs**  
+🔗 Repo: https://github.com/raju0076/EatEcho  
+🔗 Demo: https://eat-echo-app1.netlify.app 
+
 
 ---
 
