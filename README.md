@@ -66,7 +66,7 @@
 - Health management platform for users  
 - Track health data and get useful insights  
 - Built using **JavaScript + Web Technologies**
-🔗 Demo: https://elegant-hamster-c90294.netlify.app/
+- 🔗 Demo: https://elegant-hamster-c90294.netlify.app/
 🔗 Repo: https://github.com/ravithejagolla/Health-Buddy 
 
 ---
@@ -75,7 +75,7 @@
 - Voice-enabled assistant for discovering top food items from nearby restaurants  
 - Get location-based results with high-quality dish imagery and voice feedback  
 - Built using **React + Node.js + Google APIs**
-🔗 Demo: https://eat-echo-app1.netlify.app/ 
+- 🔗 Demo: https://eat-echo-app1.netlify.app/ 
 🔗 Repo: https://github.com/raju0076/EatEcho  
 
 
